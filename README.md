@@ -23,5 +23,5 @@ I am a Full-Stack Web Developer. I am also familiar with few programming languag
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://andrew-joel.com)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/andrew-joel-440a72152/)
-[<img src="https://img.shields.io/reddit/user-karma/combined/xInfinity24?logo=REDDIT&logoColor=white&style=for-the-badge" />](https://www.reddit.com/user/xInfinity24)
+[<img src="https://img.shields.io/badge/REDDIT-black?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/xInfinity24)
 </p>
