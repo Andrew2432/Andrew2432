@@ -2,6 +2,8 @@
 
 I am a Full-Stack Web Developer. Other than that, I am familiar with few programming languages such as C, C++, Java, Python, PHP, C# and Rust.
 
+**I use Arch, btw**
+
 **I am curious about**:
 - Elixir and Phoenix 
 - Deno.js
@@ -9,7 +11,7 @@ I am a Full-Stack Web Developer. Other than that, I am familiar with few program
 - WASM with Rust
 
 **My Big Projects**:
-- **March 2021**: Developed **Bus Route Tracker** system. It is closed-source.
+- **March 2021**: Developed [**Bus Route Tracker**](https://www.andrew-joel.com/blog/developing-a-bus-route-tracker/) system.
 - **November 2020**: My [personal website](https://andrew-joel.com) built from scratch.
 
 **My Published Journals**:
