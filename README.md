@@ -9,8 +9,11 @@ I am a Full-Stack Web Developer. Other than that, I am familiar with few program
 - WASM with Rust
 
 **My Big Projects**:
-- **March 2021**: Published a [Journal]() on "Developing a Cross-Platform Vehicle Tracking System using Node.js and WebSocket"
+- **March 2021**: Developed **Bus Route Tracker** system. It is closed-source.
 - **November 2020**: My [personal website](https://andrew-joel.com) built from scratch.
+
+**My Published Journals**:
+- **April 2021**: Published a [Journal](https://isrjournals.org/journal-view/developing-a-cross-platform-vehicle-tracking-system-using-nodejs-and-websocket) on "Developing a Cross-Platform Vehicle Tracking System using Node.js and WebSocket"
 
 ## Connect with me:
 
