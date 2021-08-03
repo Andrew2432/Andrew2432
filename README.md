@@ -1,23 +1,23 @@
-### Hi! I'm [Andrew Joel](https://andrew-joel.com)
+## Hi! I'm [Andrew Joel](https://andrew-joel.com)
 
 I am a Full-Stack Web Developer. I am also familiar with few programming languages such as C, C++, Java, Python, PHP, C# and Rust.
 
 **I use Arch, btw**
 
 **I am curious about**:
-- Elixir and Phoenix Framework
+- Blockchain and Smart Contracts
 - Deno.js
 - .NET Core ecosystem
-- WASM with Rust
+- Kubernetes
 
 **My Big Projects**:
-- **March 2021**: Developed [Bus Route Tracker](https://www.andrew-joel.com/blog/developing-a-bus-route-tracker/) system.
+- **March 2021**: Developed [Bus Route Tracker](https://andrew-joel.com/blog/posts/using-graphql-subscriptions-websocket-for-tracking-vehicle-locations-in-real-time) system.
 - **November 2020**: My [personal website](https://andrew-joel.com) built from scratch.
 
 **My Published Journals**:
 - **April 2021**: Published a [Journal](https://isrjournals.org/journal-view/developing-a-cross-platform-vehicle-tracking-system-using-nodejs-and-websocket) on "Developing a Cross-Platform Vehicle Tracking System using Node.js and WebSocket"
 
-## Connect with me:
+### Connect with me:
 
 <p align = "center">
 
